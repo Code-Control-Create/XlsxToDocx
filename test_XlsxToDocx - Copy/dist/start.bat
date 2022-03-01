@@ -1,0 +1,1 @@
+main.exe -d temp.docx -x data.xlsx
